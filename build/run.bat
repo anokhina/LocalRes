@@ -1,0 +1,1 @@
+java -jar LocalRes-1.0.jar --server.port=7788
